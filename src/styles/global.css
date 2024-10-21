@@ -368,13 +368,15 @@ html.light {
         width: 350px;
     }
     .centered {
-        width: 80%; 
-        max-width: 800px; 
+        width: 70%; 
         margin: 0 auto;
     }
     .markdown-content {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .centered-title {
         width: 80%;
-        max-width: 800px;
         margin: 0 auto;
     }
 }
