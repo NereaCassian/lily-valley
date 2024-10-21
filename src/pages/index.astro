@@ -2,22 +2,22 @@
 import { getCollection } from "astro:content";
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/CardPost.astro';
-const pageTitle   = "Milky-Way";
+const pageTitle   = "Lily";
 const allPosts    = await getCollection("posts");
 const latestPosts = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0, 2);
 ---
 <Layout pageTitle={pageTitle}>
     <div class="centered">
         <div class="gif">
-            <img width="300" height="259" alt="RaccoonSpaceGif" src="/space.webp"/>
+            <img width="300" height="300" alt="RaccoonSpaceGif" src="/logo.png"/>
         </div>
-        <h1>Milky way Reader</h1>
+        <h1>Lily Valley</h1>
         <span class="badge">By Nerea Casssian</span>
         <h2>Sobre este sitio</h2>
         <p>
             Esta es una simple web donde publicar la historias cortas que voy escribiendo.
-            Muchas (o todas) son NFSW, asi que ten cuidado de donde lees esta web.
-            Espero que disfruteis las historias y no dudeis en dejarme vuestro feedback, todos mis links estan abajo &lt3.
+            Muchas (o todas) son NFSW, así que ten cuidado con dónde lees esta web.
+            Espero que disfrutéis las historias y no dudéis en dejarme vuestro feedback, todos mis links están abajo &lt3.
         </p>
         <div class="center">
             <a target="_blank" href="https://nereacassian.com/socials">
