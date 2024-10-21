@@ -173,3 +173,8 @@ Ambas subieron a la cama y se acurrucaron muy pegadas, porque era una noche de m
 —Lo sé, es una de las cosas que me gustan de ti —dijo Lucía con voz dulce y cerca del oído de Noelia.
 —Te amo Lucía —respondió Noelia apretando los brazos de lucía que la rodeaban. 
 Siguieron bromeando un rato más mientras, poco a poco, abrazadas, se quedaban dormidas en un apartamento cualquiera en un día cualquiera que se había convertido en el día y lugar más especial para las dos.
+
+
+### Agradecimientos
+
+Gracias a Aileen por hacer de editora, por sus consejos y su paciencia conmigo y gracias a Ivy por ser la primera en leer la obra y ayudarme a mejorarla con su sabiduría lesbica.
