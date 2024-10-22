@@ -334,6 +334,10 @@ html.light {
     white-space: pre-wrap; 
 }
 
+.logo {
+    width: 60%;
+}
+
 /* Media Query */
 @media only screen and (max-width: 600px) {
     .navbar {
@@ -378,6 +382,9 @@ html.light {
     .centered-title {
         width: 80%;
         margin: 0 auto;
+    }
+    .logo{
+        width: 70%;
     }
 }
 
