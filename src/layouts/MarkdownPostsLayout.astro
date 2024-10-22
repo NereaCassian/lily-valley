@@ -1,9 +1,13 @@
 ---
 import BaseLayout from "./Layout.astro";
-const { frontmatter } = Astro.props;
+const { frontmatter }   = Astro.props;
+const pageTitle         = `Lily Valley | ${frontmatter.title}`;
+const pageDesc          = frontmatter.extract;
+const pageImage         = !frontmatter.image ? "https://lily-valley.nereacassian.com/logo.png" : frontmatter.image;
+const pageType          = "article";
 ---
 
-<BaseLayout pageTitle={frontmatter.title}>
+<BaseLayout pageTitle={pageTitle} pageDesc={pageDesc} pageImage={pageImage} pageType={pageType}>
     <div class="centered-title">
         <div class="gif">
             <img width="300" height="259" alt="RaccoonNotesGif" src="/blog.webp" />

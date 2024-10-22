@@ -2,11 +2,14 @@
 import { getCollection } from "astro:content";
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/CardPost.astro';
-const pageTitle   = "Lily";
+const pageTitle   = "Lily Valley";
+const pageDesc    = "Una simple pagina web para leer hisotiras cortas";
+const pageImage   = "https://lily-valley.nereacassian.com/logo.png";
+const pageType    = "website";
 const allPosts    = await getCollection("posts");
 const latestPosts = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0, 2);
 ---
-<Layout pageTitle={pageTitle}>
+<Layout pageTitle={pageTitle} pageDesc={pageDesc} pageImage={pageImage} pageType={pageType} />
     <div class="centered">
         <div class="gif">
             <img class="logo" alt="RaccoonSpaceGif" src="/logo.png"/>

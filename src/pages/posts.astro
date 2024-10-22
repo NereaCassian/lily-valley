@@ -2,11 +2,14 @@
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import Card from "../components/CardPost.astro";
-const allPosts = await getCollection("posts");
+const allPosts  = await getCollection("posts");
 const pageTitle = "Historias";
+const pageDesc  = "Una simple pagina web para leer hisotiras cortas";
+const pageImage = "https://lily-valley.nereacassian.com/logo.png";
+const pageType  = "website";
 ---
 
-<Layout pageTitle={pageTitle}>
+<Layout pageTitle={pageTitle} pageDesc={pageDesc} pageImage={pageImage} pageType={pageType}>
     <div class="gif">
         <img width="300" height="259" alt="RaccoonNotesGif" src="/blog.webp" />
     </div>

@@ -3,6 +3,7 @@ title: 'No me importa que el gato este mirando'
 author: Nerea Cassian
 date: '21-10-2024'
 extract: 'Una historia de amor entre una profesora de universidad introvertida y una alumna desastre'
+image: ''
 ---
 
 Un día más en la universidad. Lucía entró por la puerta de la clase y como siempre, llamó al orden. Dejo sus libros sobre la mesa, encendió el ordenador de la clase, puso su powerpoint y miro la estrada de sus alumnos. Muchos de ellos aún se estaban sentando, lo cual hizo suspirar a Lucía, que tenia que vivir la misma situación todos los días. Según su mente la torturaba con lo rutinaria que era su vida, su mirada, como de costumbre, aterrizó sobre Noelia.
