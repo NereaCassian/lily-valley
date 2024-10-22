@@ -20,10 +20,10 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 100%; /* Cambia el ancho máximo para usar el espacio disponible si necesitas más flexibilidad global */
+    max-width: 100%;
     margin: 0 auto;
     text-align: justify;
-    padding: 0 20px; /* Opcional: Añade algo de padding si necesitas espaciado a los lados */
+    padding: 0 20px;
 }
 
 h1, h2 {

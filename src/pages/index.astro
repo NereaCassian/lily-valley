@@ -9,7 +9,7 @@ const pageType    = "website";
 const allPosts    = await getCollection("posts");
 const latestPosts = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0, 2);
 ---
-<Layout pageTitle={pageTitle} pageDesc={pageDesc} pageImage={pageImage} pageType={pageType} />
+<Layout pageTitle={pageTitle} pageDesc={pageDesc} pageImage={pageImage} pageType={pageType}>
     <div class="centered">
         <div class="gif">
             <img class="logo" alt="RaccoonSpaceGif" src="/logo.png"/>
