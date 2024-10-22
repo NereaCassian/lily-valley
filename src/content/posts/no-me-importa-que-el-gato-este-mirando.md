@@ -2,7 +2,7 @@
 title: 'No me importa que el gato este mirando'
 author: Nerea Cassian
 date: '21-10-2024'
-extract: 'Una historia de amor entre una profesora de universidad introvertida y una alumna desastre'
+extract: 'La hisotria de como una introvertida porfesora de universidad y una alumna desastre se encuentran la una a la otra'
 image: ''
 ---
 
@@ -33,6 +33,7 @@ Lucía se apresuró a recoger un poco la mesa y le dio paso al despacho a un hom
 —Nos vemos, Señorita Torres —con una amplia sonrisa.
 Noelia se dio unos segundos para pensar en todo lo que había pasado durante esas...
 —¡Dos Horas! —dijo sorprendida tras mirar la hora en su móvil.
+<br/>
 Lucía se acostó en su cama mirando al techo. La complicación final del día no le había dado tiempo para darse cuenta de que por primera vez en mucho tiempo había roto su rutina y había salido del cascarón para hablar con otro ser humano de su gustos. Se dio una palmadita figurativa en la espalda acurrucándose en la cama, y paulatinamente, transicionando al sueño pensaba en lo bien que se lo había pasado con Noelia y que ojalá los días como hoy fueran más cotidianos.
 Al día siguiente, Lucía se levantó y siguió su rutina mañanera. Tras desayunar, fue al baño a peinarse y cepillarse los dientes. Se dio cuenta de que tenía una mancha de mermelada en la mejilla y no pudo evitar sonreír. “Que ganas de ver a Noelia otra vez”, pensó para su adentros tras despedirse de su gato.
 Un día más en la universidad. Lucía entro por la puerta de la clase y como siempre llamó al orden, los alumnos se fueron sentando y Lucía inconscientemente buscó a Noelia con la mirada. No estaba en ninguna parte. “¿Se habrá puesto mala?”, pensó Lucía. Sin Noelia alrededor esa clase se le estaba haciendo cuesta arriba, no tenía en quien descansar la mirada. “¿La habré hecho sentir incómoda?”, no podía quitársela de la cabeza. 
@@ -137,7 +138,7 @@ Noelia asintió con la cabeza, apretando mucho su cara contra los pechos de Luc�
 —Pues pareces muy experimentada —respondió Noelia.
 —Te sorprenderá saber que esta es la segunda vez que lo hago en mi vida. La primera fue con un tío que conocí en la universidad y fue horrible —dijo Lucía riéndose.
 —Espero no fastidiar tu segunda vez —murmuró Noelia, sacando su cara de los pechos de Lucía para mirarla fijamente.
-Su cara, ahora apoyada encima de los pechos de lucía estaba roja y salían algunas lagrimas de sus ojos. “Es tan mona, parece una gatita” pensó Lucía.
+Su cara, ahora apoyada encima de los pechos de Lucía estaba roja y salían algunas lagrimas de sus ojos. “Es tan mona, parece una gatita” pensó Lucía.
 —No seas boba, hasta ahora lo estás haciendo genial —respondió Lucía, secando con un dedo las lagrimas de la cara de Noelia.
 Esta se acercó y la beso, dejándose caer con un brazo rodeando la espalda de Lucía para llevársela con ella.
 —¿Seguimos? —dijo Noelia.
@@ -159,10 +160,10 @@ Noelia asintió y Lucía empezó a moverse, conduciendo una de las manos de Noel
 —Te amo, Lucía, te sientes tan bien, no voy a durar mucho más —susurró Noelia a su oído entre jadeos y gemidos.
 —No te vayas nunca —dijo Lucía, apoyando su cabeza en el hombro de Noelia—. Se que nos acabamos de conocer, pero siento que vivir mi vida sin ti después de todo esto no sería tan feliz —continuó Lucía sin parar de moverse.
 —Te lo prometo, Lucía, nunca me iré de tu lado —respondió Noelia besándola a la vez que ambas alcanzaban el clímax.
-
+<br>
 —Deberíamos subir a la cama, ¿No crees? —dijo Lucía, ahora tumbada en el sofá, con Noelia abrazándola apoyada en su pecho.
 —Tienes razón —dijo Noelia adormilada—¿Te ha gustado? — preguntó.
-—Ha sido increíble —respondió Lucía dándole un beso en la frente y acariciando la marca del mordisco que le había hecho a Noelia.
+—Ha sido increíble —respondió Lucía dándole un beso en la frente y acariciando la marca del mordisco que le había hecho a Noelia en el cuello.
 —Ojalá la marca se quede ahí para siempre— dijo Noelia abrazándose a Lucía 
 Lucía sonrió y le devolvió el abrazo diciendo:
 —Te amo Noelia.
@@ -173,10 +174,11 @@ Ambas subieron a la cama y se acurrucaron muy pegadas, porque era una noche de m
 —Anda que decir algo así en un momento como este —dijo Lucía de forma pícara.
 —Es lo que hay, te has enamorado de una tonta del culo que convierte todo lo que hace en una broma— dijo Noelia sacando la lengua.
 —Lo sé, es una de las cosas que me gustan de ti —dijo Lucía con voz dulce y cerca del oído de Noelia.
-—Te amo Lucía —respondió Noelia apretando los brazos de lucía que la rodeaban. 
+—Te amo Lucía —respondió Noelia apretando los brazos de Lucía que la rodeaban. 
 Siguieron bromeando un rato más mientras, poco a poco, abrazadas, se quedaban dormidas en un apartamento cualquiera en un día cualquiera que se había convertido en el día y lugar más especial para las dos.
-
-
-### Agradecimientos
+<br>
+***
+<br>
+<h3>Agradecimientos</h3>
 
 Gracias a Aileen por hacer de editora, por sus consejos y su paciencia conmigo y gracias a Ivy por ser la primera en leer la obra y ayudarme a mejorarla con su sabiduría lésbica.
