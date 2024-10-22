@@ -4,13 +4,24 @@ import { fade } from 'astro:transitions';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
-const { pageTitle } = Astro.props;
+const { pageTitle, pageDesc, pageImage, pageType } = Astro.props;
 ---
 <!DOCTYPE html>
 <html transition:animate="none" lang="en">
 	<head>
+        <title>{pageTitle}</title>
+        <meta name="description" content={pageDesc}>
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:type" content={pageType} />
+        <meta property="og:url" content="https://lily-valley.nereacassian.com" />
+        <meta property="og:image" content={pageImage} />
+        <meta property="og:description" content={pageDesc}>
+        <meta name="twitter:card" content="summary">
+        <meta property="twitter:domain" content="https://lily-valley.nereacassian.com">
+        <meta name="twitter:title" content={pageTitle}>
+        <meta name="twitter:description" content={pageDesc}>
+        <meta name="twitter:image" content={pageImage}>        
         <meta charset="utf-8" />
-        <meta name="description" content="Una web simple para leer historias">
         <meta name="viewport" content="width=device-width" />
         <link rel="icon" type="image/ico" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -18,7 +29,6 @@ const { pageTitle } = Astro.props;
         <link rel="preload" href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Pacifico&display=swap" as="style">
         <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Pacifico&display=swap" rel="stylesheet">       
         <meta name="generator" content={Astro.generator} />
-        <title>{pageTitle}</title>
         <ViewTransitions />
 	</head>
 	<body>
